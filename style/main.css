@@ -1,0 +1,43 @@
+div.bar {
+  display: inline-block;
+  width: 20px;
+  height: 75px;
+  background-color: teal;
+  margin-right: 2px;
+}
+
+#map {
+  position: relative;
+}
+
+#map-foreground {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#map-foreground svg {
+  width: 570px;
+  height: 377px;
+}
+
+svg .hot-spot {
+  stroke-width: 1px;
+  stroke: #FFFFFF;
+  opacity: 0.6;
+}
+
+svg .win {
+  fill: #00FF00;
+}
+
+svg .lose {
+  fill: #FF0000;
+}
+
+svg .war-complexion path {
+  opacity: 0.5;
+  stroke-width: .5px;
+  stroke: #FFFFFF;
+}
+

@@ -1,0 +1,8 @@
+[
+  {"dungeon": "forest_01", "win": 5, "lose": 0, "total": 20},
+  {"dungeon": "forest_02", "win": 20, "lose": 3, "total": 5},
+  {"dungeon": "forest_03", "win": 11, "lose": 32, "total": 30},
+  {"dungeon": "gradole_01", "win": 9, "lose": 32, "total": 30},
+  {"dungeon": "gradole_02", "win": 5, "lose": 68, "total": 20},
+  {"dungeon": "sky_01", "win": 23, "lose": 9, "total": 50}
+]
